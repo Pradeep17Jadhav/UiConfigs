@@ -18,7 +18,7 @@
                 },
                 "taxes": [
                     {
-                        "name": "Cess",
+                        "name": "Health and Education Cess",
                         "value": 4,
                         "type": "percent"
                     },
@@ -32,22 +32,22 @@
                                 "taxInPercent": 0
                             },
                             {
-                                "incomeFrom": 5000001,
+                                "incomeFrom": 5000000,
                                 "incomeTo": 10000000,
                                 "taxInPercent": 10
                             },
                             {
-                                "incomeFrom": 10000001,
+                                "incomeFrom": 10000000,
                                 "incomeTo": 20000000,
                                 "taxInPercent": 15
                             },
                             {
-                                "incomeFrom": 20000001,
+                                "incomeFrom": 20000000,
                                 "incomeTo": 50000000,
                                 "taxInPercent": 25
                             },
                             {
-                                "incomeFrom": 50000001,
+                                "incomeFrom": 50000000,
                                 "incomeTo": -1,
                                 "taxInPercent": 37
                             }
@@ -61,32 +61,32 @@
                         "taxInPercent": 0
                     },
                     {
-                        "incomeFrom": 400001,
+                        "incomeFrom": 400000,
                         "incomeTo": 800000,
                         "taxInPercent": 5
                     },
                     {
-                        "incomeFrom": 800001,
+                        "incomeFrom": 800000,
                         "incomeTo": 1200000,
                         "taxInPercent": 10
                     },
                     {
-                        "incomeFrom": 1200001,
+                        "incomeFrom": 1200000,
                         "incomeTo": 1600000,
                         "taxInPercent": 15
                     },
                     {
-                        "incomeFrom": 1600001,
+                        "incomeFrom": 1600000,
                         "incomeTo": 2000000,
                         "taxInPercent": 20
                     },
                     {
-                        "incomeFrom": 2000001,
+                        "incomeFrom": 2000000,
                         "incomeTo": 2400000,
                         "taxInPercent": 25
                     },
                     {
-                        "incomeFrom": 2400001,
+                        "incomeFrom": 2400000,
                         "incomeTo": -1,
                         "taxInPercent": 30
                     }
