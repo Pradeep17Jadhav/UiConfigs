@@ -92,48 +92,48 @@
                     }
                 ]
             }
+        ],
+        "faqs": [
+            {
+                "question": "How can I calculate my tax payable?",
+                "answer": "Easily determine your tax payable using our income tax calculator. Simply enter your income details along with the assessment year and tax regime, and our advanced tool will instantly compute your precise icome tax liability."
+            },
+            {
+                "question": "Does everyone have to file their income tax returns?",
+                "answer": "Filing income tax returns is not mandatory if your annual income is below the basic exemption threshold. However, if you fall below this limit and wish to claim a tax refund, you must file your ITR to be eligible for the benefit."
+            },
+            {
+                "question": "Does the income tax calculator compute TDS?",
+                "answer": "Our Income Tax Calculator is specifically designed to calculate your overall tax liability for the assessment year and does not compute Tax Deducted at Source (TDS)."
+            },
+            {
+                "question": "How do I calculate surcharge or rebate on income tax?",
+                "answer": "By entering your complete income and deduction details into our Income Tax Calculator, you can automatically compute your total tax liability, including any applicable surcharge, cess, and tax rebate. This comprehensive overview ensures you are fully aware of your tax obligations."
+            },
+            {
+                "question": "How can I calculate income tax on arrear salary?",
+                "answer": "To calculate income tax on arrear salary, simply add your arrear payments in the 'Annual Income' section of our calculator. The tool will factor in these earnings to provide an accurate computation of your overall tax liability."
+            },
+            {
+                "question": "What is the difference between the old and new tax regimes?",
+                "answer": "Under the old tax regime, you can claim various exemptions and deductions such as HRA and Section 80C investments to reduce your taxable income. In contrast, the new tax regime offers lower tax rates while eliminating most exemptions and deductions. Our calculator compares both regimes to help you choose the most tax-efficient option."
+            },
+            {
+                "question": "Can I use the Income Tax Calculator if I have income from multiple sources?",
+                "answer": "Absolutely. Our Income Tax Calculator is designed to handle multiple income streams including salary, interest, rental income, and capital gains. Simply input all your income details for a consolidated and accurate tax calculation."
+            },
+            {
+                "question": "Which deductions are allowed in the new tax regime?",
+                "answer": "The new tax regime allows a standard deduction of ₹75,000 for salaried individuals. No other deductions, such as HRA or 80C benefits, are available. For non-salaried income like business or rental income, no deductions are provided under the new regime."
+            },
+            {
+                "question": "Which tax regime is more beneficial for me?",
+                "answer": "As per the 2025 budget, most individuals find the new tax regime more beneficial. However, the choice depends on deductions. If you have significant deductions, the old tax regime might still be better, but such cases have become rare."
+            },
+            {
+                "question": "Why is surcharge added to tax calculations?",
+                "answer": "Surcharge applies when taxable income exceeds ₹50 lakh. The surcharge percentage varies based on income slabs and the selected tax regime."
+            }
         ]
-    },
-    "faqs": [
-        {
-            "question": "How can I calculate my tax payable?",
-            "answer": "Easily determine your tax payable using our income tax calculator. Simply enter your income details along with the assessment year and tax regime, and our advanced tool will instantly compute your precise icome tax liability."
-        },
-        {
-            "question": "Does everyone have to file their income tax returns?",
-            "answer": "Filing income tax returns is not mandatory if your annual income is below the basic exemption threshold. However, if you fall below this limit and wish to claim a tax refund, you must file your ITR to be eligible for the benefit."
-        },
-        {
-            "question": "Does the income tax calculator compute TDS?",
-            "answer": "Our Income Tax Calculator is specifically designed to calculate your overall tax liability for the assessment year and does not compute Tax Deducted at Source (TDS)."
-        },
-        {
-            "question": "How do I calculate surcharge or rebate on income tax?",
-            "answer": "By entering your complete income and deduction details into our Income Tax Calculator, you can automatically compute your total tax liability, including any applicable surcharge, cess, and tax rebate. This comprehensive overview ensures you are fully aware of your tax obligations."
-        },
-        {
-            "question": "How can I calculate income tax on arrear salary?",
-            "answer": "To calculate income tax on arrear salary, simply add your arrear payments in the 'Annual Income' section of our calculator. The tool will factor in these earnings to provide an accurate computation of your overall tax liability."
-        },
-        {
-            "question": "What is the difference between the old and new tax regimes?",
-            "answer": "Under the old tax regime, you can claim various exemptions and deductions such as HRA and Section 80C investments to reduce your taxable income. In contrast, the new tax regime offers lower tax rates while eliminating most exemptions and deductions. Our calculator compares both regimes to help you choose the most tax-efficient option."
-        },
-        {
-            "question": "Can I use the Income Tax Calculator if I have income from multiple sources?",
-            "answer": "Absolutely. Our Income Tax Calculator is designed to handle multiple income streams including salary, interest, rental income, and capital gains. Simply input all your income details for a consolidated and accurate tax calculation."
-        },
-        {
-            "question": "Which deductions are allowed in the new tax regime?",
-            "answer": "The new tax regime allows a standard deduction of ₹75,000 for salaried individuals. No other deductions, such as HRA or 80C benefits, are available. For non-salaried income like business or rental income, no deductions are provided under the new regime."
-        },
-        {
-            "question": "Which tax regime is more beneficial for me?",
-            "answer": "As per the 2025 budget, most individuals find the new tax regime more beneficial. However, the choice depends on deductions. If you have significant deductions, the old tax regime might still be better, but such cases have become rare."
-        },
-        {
-            "question": "Why is surcharge added to tax calculations?",
-            "answer": "Surcharge applies when taxable income exceeds ₹50 lakh. The surcharge percentage varies based on income slabs and the selected tax regime."
-        }
-    ]
+    }
 }
