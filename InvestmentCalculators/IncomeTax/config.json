@@ -135,5 +135,34 @@
                 "answer": "Surcharge applies when taxable income exceeds ₹50 lakh. The surcharge percentage varies based on income slabs and the selected tax regime."
             }
         ]
+    },
+    "homePage": {
+        "calculatorTiles": [
+            {
+                "label": "Income Tax Calculator",
+                "imgSrc": "/images/IT.webp",
+                "path": "/income-tax-calculator"
+            },
+            {
+                "label": "SIP Calculator",
+                "imgSrc": "/images/SIP.webp",
+                "path": "/sip-calculator"
+            },
+            {
+                "label": "Fixed Deposit (FD) Calculator",
+                "imgSrc": "/images/FD.webp",
+                "path": "/fd-calculator"
+            },
+            {
+                "label": "Recurring Deposit (RD) Calculator",
+                "imgSrc": "/images/RD.webp",
+                "path": "/rd-calculator"
+            },
+            {
+                "label": "Loan EMI Calculator",
+                "imgSrc": "/images/EMI.webp",
+                "path": "/load-emi-calculator"
+            }
+        ]
     }
 }
