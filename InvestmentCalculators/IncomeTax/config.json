@@ -1,4 +1,33 @@
 {
+    "homePage": {
+        "calculatorTiles": [
+            {
+                "label": "Income Tax Calculator",
+                "imgSrc": "/images/IT.webp",
+                "path": "/income-tax-calculator"
+            },
+            {
+                "label": "SIP Calculator",
+                "imgSrc": "/images/SIP.webp",
+                "path": "/sip-calculator"
+            },
+            {
+                "label": "Fixed Deposit (FD) Calculator",
+                "imgSrc": "/images/FD.webp",
+                "path": "/fd-calculator"
+            },
+            {
+                "label": "Recurring Deposit (RD) Calculator",
+                "imgSrc": "/images/RD.webp",
+                "path": "/rd-calculator"
+            },
+            {
+                "label": "Loan EMI Calculator",
+                "imgSrc": "/images/EMI.webp",
+                "path": "/loan-emi-calculator"
+            }
+        ]
+    },
     "incomeTax": {
         "budgets": [
             {
@@ -136,32 +165,179 @@
             }
         ]
     },
-    "homePage": {
-        "calculatorTiles": [
+    "fixedDeposit": {
+        "faqs": [
             {
-                "label": "Income Tax Calculator",
-                "imgSrc": "/images/IT.webp",
-                "path": "/income-tax-calculator"
+                "question": "How can I calculate fixed deposit interest?",
+                "answer": "Use our FD calculator to easily calculate your fixed deposit interest. Simply input the principal amount, interest rate, and tenure, and our tool will compute the interest earned on your FD investment."
             },
             {
-                "label": "SIP Calculator",
-                "imgSrc": "/images/SIP.webp",
-                "path": "/sip-calculator"
+                "question": "What is the maturity value of a fixed deposit?",
+                "answer": "The maturity value of a fixed deposit is the amount you will receive at the end of your FD tenure, which includes both the principal and the earned interest. Our FD calculator can help you calculate this value quickly."
             },
             {
-                "label": "Fixed Deposit (FD) Calculator",
-                "imgSrc": "/images/FD.webp",
-                "path": "/fd-calculator"
+                "question": "Is interest on fixed deposits taxable?",
+                "answer": "Yes, interest earned on fixed deposits is subject to tax. It is added to your total income and taxed according to your income tax slab. Our FD calculator does not calculate tax, but it helps you estimate your FD interest."
             },
             {
-                "label": "Recurring Deposit (RD) Calculator",
-                "imgSrc": "/images/RD.webp",
-                "path": "/rd-calculator"
+                "question": "What are the different types of fixed deposits?",
+                "answer": "There are various types of fixed deposits, including regular fixed deposits, tax-saving FD, and senior citizen FD. Each type has different features such as tenure and tax implications. Our calculator can be used for most FD types."
             },
             {
-                "label": "Loan EMI Calculator",
-                "imgSrc": "/images/EMI.webp",
-                "path": "/load-emi-calculator"
+                "question": "Can I prematurely withdraw my fixed deposit?",
+                "answer": "Yes, premature withdrawal of a fixed deposit is allowed, but it usually incurs a penalty. The interest earned will also be lower than expected. Our FD calculator provides results based on the regular tenure but does not account for premature withdrawal."
+            },
+            {
+                "question": "What is the FD interest rate for senior citizens?",
+                "answer": "Senior citizens typically receive a higher interest rate on fixed deposits compared to regular depositors. Check with your bank for the latest senior citizen FD interest rates and use our calculator to estimate the returns."
+            },
+            {
+                "question": "How do I calculate compound interest on fixed deposits?",
+                "answer": "Compound interest on fixed deposits is calculated periodically, such as quarterly or annually. Input the details in our FD calculator, and it will automatically compute the compound interest based on the frequency you choose."
+            },
+            {
+                "question": "Can I choose the FD interest payout frequency?",
+                "answer": "Yes, you can select the interest payout frequency for your fixed deposit. It can be monthly, quarterly, or annually. Our FD calculator allows you to simulate different payout options."
+            },
+            {
+                "question": "What happens if I reinvest the interest earned on FD?",
+                "answer": "Reinvesting the interest earned on your FD will help you accumulate more interest over time through compounding. Our FD calculator calculates interest for the given tenure, but reinvestment will further increase the maturity value."
+            },
+            {
+                "question": "How does FD interest affect my tax liabilities?",
+                "answer": "FD interest is taxable, and the amount will be added to your taxable income. You can calculate the estimated tax payable by using our income tax calculator alongside the FD interest results."
+            }
+        ]
+    },
+    "recurringDeposit": {
+        "faqs": [
+            {
+                "question": "How do I calculate recurring deposit interest?",
+                "answer": "Use our RD calculator to calculate recurring deposit interest. Simply input the monthly deposit amount, interest rate, and tenure, and the calculator will give you an estimate of the interest earned and maturity amount."
+            },
+            {
+                "question": "What is the maturity value of a recurring deposit?",
+                "answer": "The maturity value of a recurring deposit is the total amount you will receive at the end of the tenure, including the principal and earned interest. Our RD calculator helps you determine the maturity value easily."
+            },
+            {
+                "question": "Is recurring deposit interest taxable?",
+                "answer": "Yes, the interest earned on recurring deposits is taxable. It is added to your total income and taxed according to your applicable tax slab. Use our income tax calculator to estimate the tax on RD interest."
+            },
+            {
+                "question": "Can I increase or decrease my RD amount during the tenure?",
+                "answer": "No, the monthly contribution in a recurring deposit is fixed for the entire tenure. However, you can open a new RD with a different amount. Use our RD calculator to calculate the results based on your fixed monthly deposit."
+            },
+            {
+                "question": "How do I calculate compound interest on a recurring deposit?",
+                "answer": "The interest on recurring deposits is compounded quarterly. Our RD calculator automatically accounts for this compounding when you input the relevant details."
+            },
+            {
+                "question": "What is the minimum and maximum tenure for an RD?",
+                "answer": "The minimum tenure for a recurring deposit is generally 6 months, and the maximum can go up to 10 years. Check the RD calculator to calculate the interest for various tenure options."
+            },
+            {
+                "question": "Can I withdraw my RD before maturity?",
+                "answer": "Yes, you can withdraw a recurring deposit before its maturity, but it may come with penalties, and you will lose the interest rate benefits. Use our RD calculator to determine the impact of early withdrawal."
+            },
+            {
+                "question": "What happens if I miss an RD installment?",
+                "answer": "If you miss an RD installment, the bank may charge a penalty or may not pay interest on the missed amount. Always ensure timely payments for maximizing returns. Our RD calculator assumes timely payments in the results."
+            },
+            {
+                "question": "How can I check my RD balance?",
+                "answer": "You can check your RD balance by visiting your bank’s website or mobile app. Alternatively, use our RD calculator to estimate the balance and maturity value based on your monthly contributions."
+            },
+            {
+                "question": "How does RD interest impact my tax return?",
+                "answer": "Interest earned on recurring deposits is taxable and will be added to your annual income. Use our income tax calculator to get an estimate of the tax on RD interest."
+            }
+        ]
+    },
+    "SIP": {
+        "faqs": [
+            {
+                "question": "How do I calculate SIP returns?",
+                "answer": "Our SIP calculator helps you calculate SIP returns based on your monthly investment, the expected annual return, and the tenure. Simply input your investment details, and the tool will compute your total returns."
+            },
+            {
+                "question": "What is the maturity value of my SIP investment?",
+                "answer": "The maturity value of your SIP investment is the amount you will receive at the end of the tenure, including the capital invested and the returns generated. Our SIP calculator provides you with this estimate."
+            },
+            {
+                "question": "Is SIP investment tax-free?",
+                "answer": "No, SIP investment is not tax-free. The returns on your SIP are subject to capital gains tax depending on the holding period. Use our income tax calculator to estimate taxes on your SIP returns."
+            },
+            {
+                "question": "What are the benefits of investing in SIP?",
+                "answer": "SIP allows you to invest in mutual funds regularly, helping you average out the cost of your investment. It’s a great strategy for long-term wealth accumulation. Our SIP calculator demonstrates how your SIP grows over time."
+            },
+            {
+                "question": "How do I calculate returns for lump sum SIP investments?",
+                "answer": "For lump sum SIP investments, you need to input the total investment amount and expected returns into the SIP calculator. The tool will estimate the maturity value based on your lump sum contributions."
+            },
+            {
+                "question": "Can SIP be started with a low amount?",
+                "answer": "Yes, you can start SIP with as low as ₹500 per month. Our SIP calculator allows you to simulate returns on low or high SIP investments."
+            },
+            {
+                "question": "What is the SIP interest rate?",
+                "answer": "SIP returns are based on the mutual fund’s historical performance and expected returns, not a fixed interest rate. Use our SIP calculator to estimate potential returns based on the projected rate of return."
+            },
+            {
+                "question": "Can I stop my SIP anytime?",
+                "answer": "Yes, SIP can be stopped at any time. However, doing so may impact your long-term returns. The SIP calculator assumes that your SIP runs for the chosen tenure."
+            },
+            {
+                "question": "What is the SIP return calculation formula?",
+                "answer": "The SIP return calculation is based on the compounding effect of your monthly investments. Our SIP calculator automates this calculation to give you an accurate return estimate."
+            },
+            {
+                "question": "Are SIP returns taxable?",
+                "answer": "SIP returns are subject to capital gains tax. Short-term gains (less than 3 years) are taxed at 15%, and long-term gains are taxed at 10% without indexation. Use our tax calculator to determine the taxes on your SIP returns."
+            }
+        ]
+    },
+    "loanEMI": {
+        "faqs": [
+            {
+                "question": "How can I calculate my loan EMI?",
+                "answer": "Our loan EMI calculator helps you determine your monthly EMI based on your loan amount, interest rate, and tenure. Simply input the loan details, and the tool will provide the EMI amount."
+            },
+            {
+                "question": "What is an EMI?",
+                "answer": "EMI stands for Equated Monthly Installment, which is the fixed amount paid each month towards repaying a loan. Our loan EMI calculator helps you determine this amount accurately."
+            },
+            {
+                "question": "What is the loan eligibility based on EMI?",
+                "answer": "Loan eligibility depends on your monthly income, existing debt obligations, and the loan EMI. Use our loan EMI calculator to simulate different scenarios and determine the loan amount you are eligible for."
+            },
+            {
+                "question": "Can I prepay my loan EMI?",
+                "answer": "Yes, you can prepay your loan EMI, but it may come with a prepayment penalty or change the loan terms. Our calculator doesn’t account for prepayments but can estimate the total cost of the loan over time."
+            },
+            {
+                "question": "How is interest calculated on a loan?",
+                "answer": "Loan interest is usually calculated either on a reducing balance or flat-rate basis. Our loan EMI calculator uses the reducing balance method to calculate accurate interest payments."
+            },
+            {
+                "question": "Can I reduce my EMI amount?",
+                "answer": "You can reduce your EMI amount by either increasing the loan tenure or lowering the loan amount. Use our loan EMI calculator to check the impact of adjusting these parameters."
+            },
+            {
+                "question": "What happens if I miss an EMI payment?",
+                "answer": "Missing an EMI payment may result in late fees, penalties, and a negative impact on your credit score. Always try to ensure timely EMI payments to avoid these consequences."
+            },
+            {
+                "question": "How does the loan tenure affect EMI?",
+                "answer": "A longer loan tenure results in lower EMI payments but higher total interest paid over the loan's life. Use our EMI calculator to adjust the tenure and find the best balance for your financial goals."
+            },
+            {
+                "question": "Can I change my EMI payment frequency?",
+                "answer": "Some loans allow for flexible EMI payment frequencies (monthly, quarterly, etc.), depending on the lender’s terms. Our EMI calculator assumes monthly payments for standard calculations."
+            },
+            {
+                "question": "Is loan EMI tax-deductible?",
+                "answer": "Loan EMI repayments are not directly tax-deductible, but you may be able to claim deductions on the interest paid if the loan is for specific purposes like home loans. Consult with a tax advisor for more details."
             }
         ]
     }
