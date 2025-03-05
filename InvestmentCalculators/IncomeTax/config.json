@@ -12,6 +12,11 @@
                 "path": "/sip-calculator"
             },
             {
+                "label": "Lumpsum Calculator",
+                "imgSrc": "/images/SIP.webp",
+                "path": "/lumpsum-calculator"
+            },
+            {
                 "label": "Fixed Deposit (FD) Calculator",
                 "imgSrc": "/images/FD.webp",
                 "path": "/fd-calculator"
