@@ -302,6 +302,50 @@
             }
         ]
     },
+    "lumpsum": {
+        "faqs": [
+            {
+                "question": "What is a lumpsum investment in mutual funds?",
+                "answer": "A lumpsum investment in mutual funds refers to investing a large amount of money at once into a particular mutual fund scheme. It is a one-time investment, ideal for investors with a lump sum amount and a long-term investment horizon."
+            },
+            {
+                "question": "How does the lumpsum investment calculator work?",
+                "answer": "Our lumpsum investment calculator helps you estimate the potential returns on your investment by considering factors like the investment amount, duration, expected rate of return, and mutual fund scheme type. It gives you a clear picture of your future investment growth."
+            },
+            {
+                "question": "What are the benefits of lumpsum investment in mutual funds?",
+                "answer": "Lumpsum investment in mutual funds offers several benefits, including higher potential returns due to compounding, the ability to invest a significant amount at once, and taking advantage of market movements for long-term growth."
+            },
+            {
+                "question": "What is the ideal amount for lumpsum investment in mutual funds?",
+                "answer": "The ideal amount for a lumpsum investment depends on your financial goals, risk tolerance, and investment horizon. Typically, investors with a substantial sum to invest for long-term objectives prefer lumpsum investments in mutual funds."
+            },
+            {
+                "question": "Can I use the lumpsum investment calculator for any mutual fund?",
+                "answer": "Yes, our lumpsum investment calculator can be used for any mutual fund. Simply enter the relevant details such as the amount, time horizon, and expected returns, and get an accurate projection for your specific mutual fund scheme."
+            },
+            {
+                "question": "How is the return on lumpsum investment in mutual funds calculated?",
+                "answer": "The return on lumpsum investment in mutual funds is calculated based on the rate of return (CAGR) provided by the mutual fund. Our calculator factors in compounding to give you an estimate of the future value of your lumpsum investment."
+            },
+            {
+                "question": "What factors should I consider before making a lumpsum investment?",
+                "answer": "Before making a lumpsum investment in mutual funds, consider factors like your investment goals, risk appetite, market conditions, and the past performance of the mutual fund. Our calculator can help you assess potential returns based on these factors."
+            },
+            {
+                "question": "Can lumpsum investments in mutual funds be withdrawn anytime?",
+                "answer": "Yes, lumpsum investments in mutual funds can be withdrawn anytime, subject to the mutual fund's redemption rules. However, it's recommended to stay invested for the long term to reap the maximum benefits from market growth and compounding."
+            },
+            {
+                "question": "How do I choose the right mutual fund for lumpsum investment?",
+                "answer": "Choosing the right mutual fund for a lumpsum investment depends on factors such as your risk tolerance, investment goals, and time horizon. Equity mutual funds are ideal for long-term capital appreciation, while debt funds are suited for conservative investors seeking stable returns."
+            },
+            {
+                "question": "What is the difference between lumpsum and SIP investment in mutual funds?",
+                "answer": "Lumpsum investment involves investing a large sum of money at once, while SIP (Systematic Investment Plan) allows you to invest smaller amounts periodically. Lumpsum investments are ideal for those with a large sum of money, while SIP is suitable for regular, smaller investments."
+            }
+        ]
+    },
     "loanEMI": {
         "faqs": [
             {
