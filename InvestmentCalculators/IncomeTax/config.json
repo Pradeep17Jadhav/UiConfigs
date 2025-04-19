@@ -3,32 +3,32 @@
         "calculatorTiles": [
             {
                 "label": "Income Tax Calculator",
-                "imgSrc": "/images/IT.webp",
+                "imgSrc": "/images/sip.png",
                 "path": "/income-tax-calculator"
             },
             {
                 "label": "SIP Calculator",
-                "imgSrc": "/images/SIP.webp",
+                "imgSrc": "/images/sip.png",
                 "path": "/sip-calculator"
             },
             {
                 "label": "Lumpsum Calculator",
-                "imgSrc": "/images/Lumpsum.webp",
+                "imgSrc": "/images/lumpsum.png",
                 "path": "/lumpsum-calculator"
             },
             {
                 "label": "Fixed Deposit (FD) Calculator",
-                "imgSrc": "/images/FD.webp",
+                "imgSrc": "/images/fd.png",
                 "path": "/fd-calculator"
             },
             {
                 "label": "Recurring Deposit (RD) Calculator",
-                "imgSrc": "/images/RD.webp",
+                "imgSrc": "/images/fd.png",
                 "path": "/rd-calculator"
             },
             {
                 "label": "Loan EMI Calculator",
-                "imgSrc": "/images/EMI.webp",
+                "imgSrc": "/images/home-loan.png",
                 "path": "/loan-emi-calculator"
             }
         ]
