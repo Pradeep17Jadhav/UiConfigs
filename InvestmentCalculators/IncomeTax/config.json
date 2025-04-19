@@ -3,7 +3,7 @@
         "calculatorTiles": [
             {
                 "label": "Income Tax Calculator",
-                "imgSrc": "/images/sip.png",
+                "imgSrc": "/images/income-tax.png",
                 "path": "/income-tax-calculator"
             },
             {
@@ -13,7 +13,7 @@
             },
             {
                 "label": "Lumpsum Calculator",
-                "imgSrc": "/images/lumpsum.png",
+                "imgSrc": "/images/sip.png",
                 "path": "/lumpsum-calculator"
             },
             {
