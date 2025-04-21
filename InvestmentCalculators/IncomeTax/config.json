@@ -13,7 +13,7 @@
             },
             {
                 "label": "Lumpsum Calculator",
-                "imgSrc": "/images/sip.png",
+                "imgSrc": "/images/lumpsum.png",
                 "path": "/lumpsum-calculator"
             },
             {
@@ -23,13 +23,23 @@
             },
             {
                 "label": "Recurring Deposit (RD) Calculator",
-                "imgSrc": "/images/fd.png",
+                "imgSrc": "/images/rd.png",
                 "path": "/rd-calculator"
             },
             {
-                "label": "Loan EMI Calculator",
+                "label": "Loan Calculator",
                 "imgSrc": "/images/home-loan.png",
                 "path": "/loan-emi-calculator"
+            },
+            {
+                "label": "Mortgage Calculator",
+                "imgSrc": "/images/mortgage.png",
+                "path": "/mortgage-calculator"
+            },
+            {
+                "label": "Personal Loan Calculator",
+                "imgSrc": "/images/personal.png",
+                "path": "/personal-loan-calculator"
             }
         ]
     },
