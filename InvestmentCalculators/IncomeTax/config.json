@@ -45,11 +45,11 @@
     },
     "incomeTax": {
         "budgets": [
-            {
-                "year": 2025,
-                "financialYear": "2025-26",
-                "assessmentYear": "2026-27",
-                "name": "Financial Year 2025-26 (AY 2026-27)",
+             {
+                "year": 2026,
+                "financialYear": "2026-27",
+                "assessmentYear": "2027-28",
+                "name": "Financial Year 2026-27 (AY 2027-28)",
                 "regime": "New",
                 "applyMarginalRelief": true,
                 "rebate": {
@@ -137,10 +137,10 @@
                 ]
             },
              {
-                "year": 2026,
-                "financialYear": "2026-27",
-                "assessmentYear": "2027-28",
-                "name": "Financial Year 2026-27 (AY 2027-28)",
+                "year": 2025,
+                "financialYear": "2025-26",
+                "assessmentYear": "2026-27",
+                "name": "Financial Year 2025-26 (AY 2026-27)",
                 "regime": "New",
                 "applyMarginalRelief": true,
                 "rebate": {
